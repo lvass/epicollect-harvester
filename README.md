@@ -1,0 +1,2 @@
+# epicollect-harvester
+Automated download and joining of EpiCollect project data via the sites API. The program is designed to be run at regular intervals over the course of data collection in order to download all data including multimedia (video, audio, images). This allows EpiCollect users to back up their data and start analysis. Form parts (branches, child forms and parent forms) are joined and new data concatenated to the end of the data on each download.
